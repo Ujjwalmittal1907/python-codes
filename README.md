@@ -1,2 +1,2 @@
 # python-codes
-t6his repository contains python code 
+This repository contains python code 
